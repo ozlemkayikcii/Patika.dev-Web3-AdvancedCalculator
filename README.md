@@ -3,6 +3,8 @@
 
 Bu proje, Internet Computer platformu üzerinde çalışan gelişmiş bir hesap makinesi Web3 uygulamasıdır. Uygulama, temel matematik işlemlerinin yanı sıra kök alma, üs alma, integral hesaplama gibi ileri düzey fonksiyonları da içermektedir.
 
+Erişim: https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=2620355103
+
 ## Özellikler
 
 - Temel matematik işlemleri (toplama, çıkarma, çarpma, bölme)
