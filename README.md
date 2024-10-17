@@ -1,5 +1,3 @@
-# Patika.dev-Web3-AdvancedCalculator
-
 
 # Gelişmiş Hesap Makinesi Web3 Uygulaması
 
